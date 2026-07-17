@@ -1,93 +1,209 @@
-# 💫 About Me
- 
-🎓 B.Tech Computer Science & Engineering student at **Lovely Professional University (LPU)**
- 
-💻 Currently working on **Backend Development**, **AWS Cloud**, and **DevOps**
- 
-🤝 Looking to collaborate on **Java**, **Spring Boot**, **Cloud Computing**, and **DevOps** projects
- 
-🆘 Looking for help with **Microservices**, **Kubernetes**, and **System Design**
- 
-🌱 Currently learning **Data Structures and Algorithms (DSA)**, **Java**, **Spring Boot**, **Docker**, **Kubernetes**, **CI/CD**, and **Cloud Architecture**
- 
-💬 Ask me about **Java**, **C++**, **DSA**, **AWS**, **DevOps**, and **Backend Development**
- 
- 
+<div align="center">
+  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello World, I'm Mainuddeen!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Cloud+%26+DevOps+Enthusiast;Indian+Patent+Holder+%F0%9F%8F%86;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Mainuddeen00&style=for-the-badge&color=blue)
+  
+</div>
+
 ---
- 
-## 🏆 Achievements
- 
-### 🦵 Leg Mouse for Specially-Abled People — *Indian Patent Holder (No. 554101)*
-> An assistive technology device that lets individuals with upper limb disabilities operate a computer using **foot movements and leg gestures** — no hands required.
- 
-- 🥇 **INSPIRE Award – Manak** recipient from the Department of Science and Technology (DST), Govt. of India
-- 🏛️ Selected for **National Exhibition at IIT Delhi**
-- 📜 Granted **Indian Patent** (Date of Grant: 2024)
-- ♿ Promotes **digital inclusion** and independence for differently-abled students and professionals
-📺 [Watch the Demo Video](https://www.youtube.com/watch?v=t5PE4n1hh6w)
- 
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 **B.Tech CSE** @ Lovely Professional University (LPU)
+- ☁️ Building scalable solutions with **AWS Cloud & DevOps**
+- 🔧 Crafting robust backends with **Java + Spring Boot**
+- 🐳 Containerizing everything with **Docker & Kubernetes**
+- 🧠 Sharpening **DSA** skills & mastering **System Design**
+- 🏆 **Indian Patent Holder** for assistive technology innovation
+- 🌟 **INSPIRE Award** recipient from Govt. of India
+- 📫 Reach me: **mainuddeen9565@gmail.com**
+
+</td>
+<td width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainuddeen00&layout=compact&theme=radical&hide_border=true" width="100%">
+</td>
+</tr>
+</table>
+
 ---
- 
-## 🌐 Socials
- 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mainuddeen00/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainuddeen0/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mainuddeen9565@gmail.com)
- 
+
+## 🏆 Featured Achievement
+
+<div align="center">
+
+### 🦵 Leg Mouse for Specially-Abled People
+
+</div>
+
+<table>
+<tr>
+<td>
+
+> **Indian Patent No. 554101** — An assistive device enabling computer operation through **foot movements & leg gestures**.
+
+<div align="left">
+
+### 🎯 Key Highlights
+
+| Recognition | Details |
+|-------------|---------|
+| 🥇 **INSPIRE Award - Manak** | Department of Science & Technology, Govt. of India |
+| 🏛️ **National Exhibition** | Selected for presentation at **IIT Delhi** |
+| 📜 **Indian Patent** | Granted in **2024** |
+| ♿ **Social Impact** | Promotes digital inclusion for differently-abled |
+
+</div>
+
+</td>
+<td width="35%" align="center">
+<a href="https://www.youtube.com/watch?v=t5PE4n1hh6w">
+  <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828">
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/Patent-Granted-8B5CF6?style=for-the-badge&logo=verified&logoColor=white">
+</td>
+</tr>
+</table>
+
 ---
- 
-## 💻 Tech Stack
- 
-### 🗣️ Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- 
-### 🔧 Backend & Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
- 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
- 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
- 
-### 🛠️ Developer Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
- 
+
+## 🛠️ Technology Arsenal
+
+<details open>
+<summary><b>🗣️ Programming Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+</details>
+
+<details open>
+<summary><b>⚡ Backend & Frameworks</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black">
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Messaging</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+</p>
+</details>
+
+<details>
+<summary><b>🔧 Tools & Practices</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgen&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white">
+</p>
+</details>
+
 ---
- 
-## 📊 GitHub Stats
- 
-![](https://github-readme-stats.shion.dev/api?username=Mainuddeen00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mainuddeen00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mainuddeen00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Mainuddeen00&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" height="180em">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mainuddeen00&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6" height="180em">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mainuddeen00&theme=react-dark&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="95%">
+  
+</div>
+
 ---
- 
-[![](https://komarev.com/ghpvc/?username=Mainuddeen00&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Microservices Architecture Patterns
+  - Kubernetes Orchestration
+  - System Design Principles
+  - Advanced DSA
+
+Building:
+  - Cloud-Native Applications
+  - CI/CD Pipelines
+  - Scalable Backend Systems
+```
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainuddeen0/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mainuddeen00/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainuddeen9565@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=t5PE4n1hh6w)
+
+### 💡 Always open to collaborating on innovative projects!
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/Mainuddeen00/Mainuddeen00/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
