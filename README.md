@@ -16,25 +16,20 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="60%">
+<div align="center">
 
-- 🎓 **B.Tech CSE** @ Lovely Professional University (LPU)
-- ☁️ Building scalable solutions with **AWS Cloud & DevOps**
-- 🔧 Crafting robust backends with **Java + Spring Boot**
-- 🐳 Containerizing everything with **Docker & Kubernetes**
-- 🧠 Sharpening **DSA** skills & mastering **System Design**
-- 🏆 **Indian Patent Holder** for assistive technology innovation
-- 🌟 **INSPIRE Award** recipient from Govt. of India
-- 📫 Reach me: **mainuddeen9565@gmail.com**
+| | |
+|:---:|---|
+| 🎓 | **B.Tech CSE** @ Lovely Professional University (LPU) |
+| ☁️ | Building scalable solutions with **AWS Cloud & DevOps** |
+| 🔧 | Crafting robust backends with **Java + Spring Boot** |
+| 🐳 | Containerizing everything with **Docker & Kubernetes** |
+| 🧠 | Sharpening **DSA** skills & mastering **System Design** |
+| 🏆 | **Indian Patent Holder** for assistive technology innovation |
+| 🌟 | **INSPIRE Award** recipient from Govt. of India |
+| 📫 | Reach me: **mainuddeen9565@gmail.com** |
 
-</td>
-<td width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainuddeen00&layout=compact&theme=radical&hide_border=true" width="100%">
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -71,7 +66,7 @@
   <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828">
 </a>
 <br><br>
-<img src="https://img.shields.io/badge/Patent-Granted-8B5CF6?style=for-the-badge&logo=verified&logoColor=white">
+<img src="https://img.shields.io/badge/🏆_Patent-Granted-8B5CF6?style=for-the-badge">
 </td>
 </tr>
 </table>
@@ -87,8 +82,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
@@ -101,11 +94,8 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black">
 </p>
 </details>
@@ -116,7 +106,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
@@ -133,7 +122,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
 </p>
@@ -146,7 +134,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgen&logoColor=white">
